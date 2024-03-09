@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "b855df4d50e1e2f7eab2b4fc17fe778f4adca13efee4f18a390745c28541aeaa"
+    }
+  ],
+  "containerPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/IOS_Devlopment_Course.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/DerivedData/IOS_Devlopment_Course/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/DerivedData/IOS_Devlopment_Course/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/DerivedData/IOS_Devlopment_Course/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/DerivedData/IOS_Devlopment_Course/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/DerivedData/IOS_Devlopment_Course/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/DerivedData/IOS_Devlopment_Course/Build/Products",
+      "pchPath" : "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/DerivedData/IOS_Devlopment_Course/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

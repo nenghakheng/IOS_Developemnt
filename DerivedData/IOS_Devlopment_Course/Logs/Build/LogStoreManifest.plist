@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>05C0A37E-B996-4440-8523-50779C0EF358</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05C0A37E-B996-4440-8523-50779C0EF358.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IOS_Devlopment_Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IOS_Devlopment_Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build IOS_Devlopment_Course</string>
+			<key>timeStartedRecording</key>
+			<real>731668419.85307205</real>
+			<key>timeStoppedRecording</key>
+			<real>731668423.19129598</real>
+			<key>title</key>
+			<string>Build IOS_Devlopment_Course</string>
+			<key>uniqueIdentifier</key>
+			<string>05C0A37E-B996-4440-8523-50779C0EF358</string>
+		</dict>
+		<key>15C44F0D-D06A-4237-B2F9-F8C5DCB625E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>15C44F0D-D06A-4237-B2F9-F8C5DCB625E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IOS_Devlopment_Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IOS_Devlopment_Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build IOS_Devlopment_Course</string>
+			<key>timeStartedRecording</key>
+			<real>731669227.37946796</real>
+			<key>timeStoppedRecording</key>
+			<real>731669231.24387503</real>
+			<key>title</key>
+			<string>Build IOS_Devlopment_Course</string>
+			<key>uniqueIdentifier</key>
+			<string>15C44F0D-D06A-4237-B2F9-F8C5DCB625E3</string>
+		</dict>
+		<key>C44BBB69-0DFD-4D4F-AC57-685C31669C68</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C44BBB69-0DFD-4D4F-AC57-685C31669C68.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IOS_Devlopment_Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IOS_Devlopment_Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build IOS_Devlopment_Course</string>
+			<key>timeStartedRecording</key>
+			<real>731669319.712556</real>
+			<key>timeStoppedRecording</key>
+			<real>731669320.08484805</real>
+			<key>title</key>
+			<string>Build IOS_Devlopment_Course</string>
+			<key>uniqueIdentifier</key>
+			<string>C44BBB69-0DFD-4D4F-AC57-685C31669C68</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
