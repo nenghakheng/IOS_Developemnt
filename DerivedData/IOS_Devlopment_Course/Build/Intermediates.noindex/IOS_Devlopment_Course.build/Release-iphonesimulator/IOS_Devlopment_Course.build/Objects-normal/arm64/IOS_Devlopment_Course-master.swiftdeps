@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "e6c76f28a0430a7922592de4c03b219585502dcc426995a2805a2682f2deab09"
+build_start_time: [1709975621, 336675000]
+build_end_time: [1709975621, 370236000]
+inputs:
+  "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/IOS_Devlopment_Course/AppDelegate.swift": !dirty [1709972109, 607902372]
+  "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/IOS_Devlopment_Course/SceneDelegate.swift": !dirty [1709972109, 609874571]
+  "/Users/macbookpro/Documents/IOS_Development_Course/IOS_Devlopment_Course/IOS_Devlopment_Course/ViewController.swift": !dirty [1709975619, 844095529]

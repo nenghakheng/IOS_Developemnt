@@ -5,6 +5,52 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>23583C34-1685-485A-9715-F4CDA5E0C53A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>15C44F0D-D06A-4237-B2F9-F8C5DCB625E3</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-IOS_Devlopment_Course-2024.03.09_16-27-07-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>IOS_Devlopment_Course project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>IOS_Devlopment_Course</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run IOS_Devlopment_Course</string>
+			<key>timeStartedRecording</key>
+			<real>731669227.37916994</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run IOS_Devlopment_Course</string>
+			<key>uniqueIdentifier</key>
+			<string>23583C34-1685-485A-9715-F4CDA5E0C53A</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

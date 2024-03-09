@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+IOS_Devlopment_Course in IOS_Devlopment_Course, no dependencies
+IOS_Devlopment_Course in IOS_Devlopment_Course, no dependencies
