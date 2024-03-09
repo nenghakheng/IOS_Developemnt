@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+IOS_Devlopment_Course in IOS_Devlopment_Course, no dependencies
+IOS_Devlopment_Course in IOS_Devlopment_Course, no dependencies
+IOS_Devlopment_CourseTests in IOS_Devlopment_Course, depends on:
+IOS_Devlopment_Course in IOS_Devlopment_Course (explicit)
+IOS_Devlopment_CourseTests in IOS_Devlopment_Course, depends on:
+IOS_Devlopment_Course in IOS_Devlopment_Course (explicit)
+IOS_Devlopment_CourseTests in IOS_Devlopment_Course, no dependencies
+IOS_Devlopment_CourseUITests in IOS_Devlopment_Course, depends on:
+IOS_Devlopment_Course in IOS_Devlopment_Course (explicit)
+IOS_Devlopment_CourseUITests in IOS_Devlopment_Course, depends on:
+IOS_Devlopment_Course in IOS_Devlopment_Course (explicit)
+IOS_Devlopment_CourseUITests in IOS_Devlopment_Course, no dependencies
